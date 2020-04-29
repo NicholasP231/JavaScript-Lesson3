@@ -1,1 +1,4 @@
-# JavaScript-Lesson3
+var a;
+var b = 2;
+var a = 7;
+car b;
